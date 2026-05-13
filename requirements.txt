@@ -1,1 +1,8 @@
 colorama==0.4.6
+# =========================
+# FILE: requirements.txt
+# =========================
+
+flask
+scapy
+colorama
